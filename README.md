@@ -43,9 +43,9 @@
 1. Clone repository `git clone https://github.com/marin-chevolleau/netflux.git`
 2. Run the command `./fuseki-server --port 3030` within the folder `apache-jena-fuseki-X.X.X` (`X` being a number) to start the [Fuseki](https://downloads.apache.org/jena/binaries/apache-jena-fuseki-5.0.0.zip) server
 3. Open a web browser and access the URL `http://127.0.0.1:3030/#/`
-4. Go to tab `Manage Datasets` (`http://127.0.0.1:3030/#/manage`) and create a dataset named movies`movies`
+4. Go to tab `Manage Datasets` (`http://127.0.0.1:3030/#/manage`) and create a dataset named movies `movies`
 5. Click on `Add Data` (`http://127.0.0.1:3030/#/dataset/movies/upload`) to add files `movies schema.ttl` and `movies.ttl` to the `movies` data set 
-6. *(**OPTIONNEL**) Go to tqb `Query` (`http://127.0.0.1:3030/#/dataset/movies/query`) to execute SPARQL queries*.
+6. *(**OPTIONAL**) Go to tab `Query` (`http://127.0.0.1:3030/#/dataset/movies/query`) to execute SPARQL queries*.
 7. Open the file ```web/index.html``` in a web browser to access the web application.
 
 ### Turtle visualization
