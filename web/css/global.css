@@ -1,0 +1,111 @@
+/* ------------------------------------------------------------ Fonts ----------------------------------------------------------- */
+.bebas-neue-regular {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* ------------------------------------------------------------ Variables ------------------------------------------------------- */
+
+:root {
+    --netflux-grey: #564d4d;
+    --netflux-blue: #1967D2;
+    --netflux-black: #000;
+    --netflux-white: #fff;
+    --netflux-light-grey: #f9f9f9;
+    --netflux-light-cream: #ccc;
+    }
+
+/* ------------------------------------------------------------ Body ------------------------------------------------------------ */
+
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+/* ------------------------------------------------------------ Global ---------------------------------------------------------- */
+
+input[type="checkbox"]:checked {
+    accent-color: var(--netflux-blue);
+}
+
+.search-btn {
+    padding: 8px 15px;
+    background-color: var(--netflux-blue);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.search-btn:hover {
+    background-color: var(--netflux-light-grey);
+    color: var(--netflux-blue);
+    border: 1px solid var(--netflux-blue);
+}
+
+.search-btn:disabled {
+    background-color: var(--netflux-light-cream);
+    color: var(--netflux-grey);
+    border: 1px solid var(--netflux-grey);
+    cursor: not-allowed;
+}
+
+/* ------------------------------------------------------------ Header ---------------------------------------------------------- */
+
+header {
+    background-color: #564d4d;
+    color: var(--netflux-white);
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+nav {
+    display: flex;
+}
+
+nav a {
+    color: var(--netflux-white);
+    text-decoration: none;
+    margin-left: 20px;
+    transition: color 0.3s ease;
+}
+
+nav a.current-page {
+    text-decoration: underline;
+}
+
+nav a:hover {
+    color: var(--netflux-blue);
+}
+
+/* ------------------------------------------------------------- Main ---------------------------------------------------------- */
+
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+/* ------------------------------------------------------------- Footer --------------------------------------------------------- */
+
+footer {
+    background-color: var(--netflux-grey);
+    color: var(--netflux-white);
+    padding: 15px;
+    text-align: center;
+    font-size: 12px;
+    margin-top: auto;
+}

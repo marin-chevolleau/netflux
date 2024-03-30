@@ -1,0 +1,37 @@
+/* ----------------------------------------------------------- Numerical -------------------------------------------------------- */
+
+.select-container {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+}
+
+.select-container select {
+    padding: 8px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 5px;
+    border: 1px solid var(--netflux-grey);
+    background-color: var(--netflux-light-grey);
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 16px;
+    color: var(--netflux-black);
+    cursor: pointer;
+}
+
+.graph-container {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+}
+
+.graph-container .box {
+    fill: var(--netflux-light-cream);
+    stroke: black;
+}

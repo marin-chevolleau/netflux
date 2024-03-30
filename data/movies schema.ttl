@@ -1,0 +1,92 @@
+@prefix :      <http://127.0.0.1:3333/> .
+@prefix dbo:   <https://dbpedia.org/ontology/> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+# Classes
+dbo:Actor rdf:type rdfs:Class ;
+    rdfs:subClassOf dbo:Artist ;
+    rdfs:comment "An actor is a person who portrays a character in a performance (also actress)"@en .
+dbo:Artist rdf:type rdfs:Class ;
+    rdfs:subClassOf dbo:Person .
+
+dbo:Company rdf:type rdfs:Class ;
+    rdfs:comment "A company is a business organization"@en .
+
+dbo:Country rdf:type rdfs:Class ;
+    rdfs:comment "A country is a region identified as a distinct national entity in political geography"@en .
+
+dbo:director rdf:type rdfs:Class ;
+    rdfs:subClassOf dbo:Person ;
+    rdfs:comment "A director is a person who directs the making of a film"@en .
+
+dbo:Film rdf:type rdfs:Class ;
+    rdfs:comment "A film, also called a movie, motion picture, or moving picture, is a work of visual art used to simulate experiences that communicate ideas, stories, perceptions, feelings, beauty or atmosphere, by the means of recorded or programmed moving images, along with sound (and more rarely) other sensory stimulations"@en .
+
+dbo:writer rdf:type rdfs:Class ;
+    rdfs:subClassOf dbo:Person ;
+    rdfs:comment "A writer is a person who uses written words in various styles and techniques to communicate their ideas"@en .
+
+dbo:Person rdf:type rdfs:Class .
+
+
+# Properties
+:budget rdf:type rdf:Property ;
+    rdfs:domain dbo:Film ;
+    rdfs:range xsd:double .
+
+:company rdf:type rdf:Property ;
+      rdfs:domain dbo:Film ;
+      rdfs:range dbo:Company .
+
+:country rdf:type rdf:Property ;
+      rdfs:domain dbo:Film ;
+      rdfs:range dbo:Country .
+
+:director rdf:type rdf:Property ;
+       rdfs:domain dbo:Film ;
+       rdfs:range dbo:director .
+
+:genre rdf:type rdf:Property ;
+    rdfs:domain dbo:Film ;
+    rdfs:range xsd:string .
+
+:gross rdf:type rdf:Property ;
+    rdfs:domain dbo:Film ;
+    rdfs:range rdfs:double .
+
+:name rdf:type rdf:Property ;
+       rdfs:domain dbo:Film ;
+       rdfs:range xsd:string .
+
+:rating rdf:type rdf:Property ;
+     rdfs:domain dbo:Film ;
+     rdfs:range xsd:double .
+
+:runtime rdf:type rdf:Property ;
+      rdfs:domain dbo:Film ;
+      rdfs:range xsd:double .
+
+:score rdf:type rdf:Property ;
+    rdfs:domain dbo:Film ;
+    rdfs:range xsd:double .
+
+:star rdf:type rdf:Property ;
+       rdfs:domain dbo:Film ;
+       rdfs:range dbo:Actor .
+
+:votes rdf:type rdf:Property ;
+    rdfs:domain dbo:Film ;
+    rdfs:range xsd:double .
+
+:writer rdf:type rdf:Property ;
+     rdfs:domain dbo:Film ;
+     rdfs:range dbo:writer .
+
+:year rdf:type rdf:Property ;
+       rdfs:domain dbo:Film ;
+       rdfs:range xsd:integer .

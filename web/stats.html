@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Netflux</title>
+
+    <!-- JQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+    <!-- Bebas Neue -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+    <!-- D3.js -->
+    <script src="js/d3.v7.min.js"></script>
+    
+    <link rel="stylesheet" href="css/stats.css">
+    <link rel="stylesheet" href="css/global.css">
+    <script src="js/countries.js"></script>
+    <script src="js/stats.js"></script>
+</head>
+
+<body class="bebas-neue-regular">
+    <header>
+        <div class="logo">Netflux 🎬</div>
+        <nav>
+            <a href="index.html">Search</a>
+            <a href="#" class="current-page">Stats</a>
+        </nav>
+    </header>
+
+    <main>
+        <div class="select-container">
+            <label for="numerical-select">Choose a statistic:</label>
+            <select name="select" id="numerical-select">
+                <option value="filmScore">Score</option>
+                <option value="filmBudget">Budget</option>
+                <option value="filmGross">Gross</option>
+                <option value="filmRuntime">Runtime</option>
+            </select>
+            <button class="search-btn" id="numerical-btn">Visualize</button>
+        </div>
+        <div class="graph-container" id="ridgeline-plot"></div>
+
+        <div class="select-container">
+            <label for="map-feature-select">Choose a statistic:</label>
+            <select name="select" id="map-feature-select">
+                <option value="filmScore">Score</option>
+                <option value="filmBudget">Budget</option>
+                <option value="filmGross">Gross</option>
+                <option value="filmRuntime">Runtime</option>
+            </select>
+            <label for="map-metric-select">Choose a metric:</label>
+            <select name="select" id="map-metric-select">
+                <option value="min">Min</option>
+                <option value="max">Max</option>
+                <option value="avg">Average</option>
+                <option value="sum">Sum</option>
+            </select>
+            <button class="search-btn" id="map-btn">Visualize</button>
+        </div>
+        <div class="graph-container" id="chloropleth-plot"></div>
+    </main>
+
+    <footer>
+        <p>© Netflux</p>
+    </footer>
+</body>
+
+</html>

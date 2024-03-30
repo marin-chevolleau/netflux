@@ -1,0 +1,575 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1746pt" height="222pt" viewBox="0.00 0.00 1745.75 221.60">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 217.6)">
+<title>%0</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-217.6 1741.75,-217.6 1741.75,4 -4,4"/>
+<!-- N18 -->
+<g id="node1" class="node">
+<title>N18</title>
+<polygon fill="#ffff00" stroke="#ffff00" points="54,-124.8 0,-124.8 0,-88.8 54,-88.8 54,-124.8"/>
+<text text-anchor="middle" x="27" y="-102.6" font-family="Times,serif" font-size="14.00" fill="#000000">8.1</text>
+</g>
+<!-- N2 -->
+<g id="node2" class="node">
+<title>N2</title>
+<g id="a_node2"><a xlink:href="https://dbpedia.org/ontology/director" xlink:title="dbo:director">
+<ellipse fill="none" stroke="#000000" cx="883" cy="-18" rx="58.4667" ry="18"/>
+<text text-anchor="middle" x="883" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">dbo:director</text>
+</a>
+</g>
+</g>
+<!-- N24 -->
+<g id="node3" class="node">
+<title>N24</title>
+<g id="a_node3"><a xlink:href="https://dbpedia.org/ontology/director" xlink:title="United States">
+<polygon fill="#ffff00" stroke="#ffff00" points="1189.54,-36 1098.46,-36 1098.46,0 1189.54,0 1189.54,-36"/>
+<text text-anchor="middle" x="1144" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">United States</text>
+</a>
+</g>
+</g>
+<!-- N12 -->
+<g id="node4" class="node">
+<title>N12</title>
+<g id="a_node4"><a xlink:href="https://dbpedia.org/ontology/director" xlink:title="46000000.0">
+<polygon fill="#ffff00" stroke="#ffff00" points="154.0015,-124.8 71.9985,-124.8 71.9985,-88.8 154.0015,-88.8 154.0015,-124.8"/>
+<text text-anchor="middle" x="113" y="-102.6" font-family="Times,serif" font-size="14.00" fill="#000000">46000000.0</text>
+</a>
+</g>
+</g>
+<!-- N5 -->
+<g id="node5" class="node">
+<title>N5</title>
+<g id="a_node5"><a xlink:href="http://127.0.0.1:3333/AlconEntertainment" xlink:title=":AlconEntertainment">
+<ellipse fill="none" stroke="#000000" cx="264" cy="-106.8" rx="92.0509" ry="18"/>
+<text text-anchor="middle" x="264" y="-102.6" font-family="Times,serif" font-size="14.00" fill="#000000">:AlconEntertainment</text>
+</a>
+</g>
+</g>
+<!-- N19 -->
+<g id="node10" class="node">
+<title>N19</title>
+<g id="a_node10"><a xlink:href="https://dbpedia.org/ontology/Country" xlink:title="Alcon Entertainment">
+<polygon fill="#ffff00" stroke="#ffff00" points="372.5218,-36 239.4782,-36 239.4782,0 372.5218,0 372.5218,-36"/>
+<text text-anchor="middle" x="306" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">Alcon Entertainment</text>
+</a>
+</g>
+</g>
+<!-- N5&#45;&gt;N19 -->
+<g id="edge8" class="edge">
+<title>N5-&gt;N19</title>
+<g id="a_edge8"><a xlink:href="http://www.w3.org/2000/01/rdf-schema#label" xlink:title="rdfs:label">
+<path fill="none" stroke="#000000" d="M272.4993,-88.83C278.3809,-76.3946 286.3194,-59.6104 292.9924,-45.5018"/>
+<polygon fill="#000000" stroke="#000000" points="296.2574,-46.7844 297.3692,-36.2481 289.9295,-43.7915 296.2574,-46.7844"/>
+</a>
+</g>
+<g id="a_edge8-label"><a xlink:href="http://www.w3.org/2000/01/rdf-schema#label" xlink:title="rdfs:label">
+<text text-anchor="middle" x="315.4334" y="-58.2" font-family="Times,serif" font-size="14.00" fill="#000000">rdfs:label</text>
+</a>
+</g>
+</g>
+<!-- N20 -->
+<g id="node20" class="node">
+<title>N20</title>
+<g id="a_node20"><a xlink:href="https://dbpedia.org/ontology/Company" xlink:title="dbo:Company">
+<ellipse fill="none" stroke="#000000" cx="156" cy="-18" rx="65.518" ry="18"/>
+<text text-anchor="middle" x="156" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">dbo:Company</text>
+</a>
+</g>
+</g>
+<!-- N5&#45;&gt;N20 -->
+<g id="edge7" class="edge">
+<title>N5-&gt;N20</title>
+<g id="a_edge7"><a xlink:href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type" xlink:title="a">
+<path fill="none" stroke="#000000" d="M242.6627,-89.256C226.1368,-75.6681 203.0735,-56.7049 184.8937,-41.7571"/>
+<polygon fill="#000000" stroke="#000000" points="186.8727,-38.853 176.9255,-35.2054 182.4269,-44.26 186.8727,-38.853"/>
+</a>
+</g>
+<g id="a_edge7-label"><a xlink:href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type" xlink:title="a">
+<text text-anchor="middle" x="223.1073" y="-58.2" font-family="Times,serif" font-size="14.00" fill="#000000">a</text>
+</a>
+</g>
+</g>
+<!-- N9 -->
+<g id="node6" class="node">
+<title>N9</title>
+<g id="a_node6"><a xlink:href="https://dbpedia.org/ontology/Film" xlink:title="dbo:Film">
+<ellipse fill="none" stroke="#000000" cx="420" cy="-106.8" rx="46.4068" ry="18"/>
+<text text-anchor="middle" x="420" y="-102.6" font-family="Times,serif" font-size="14.00" fill="#000000">dbo:Film</text>
+</a>
+</g>
+</g>
+<!-- N16 -->
+<g id="node7" class="node">
+<title>N16</title>
+<g id="a_node7"><a xlink:href="http://127.0.0.1:3333/AaronGuzikowski" xlink:title=":AaronGuzikowski">
+<ellipse fill="none" stroke="#000000" cx="569" cy="-106.8" rx="84.5324" ry="18"/>
+<text text-anchor="middle" x="569" y="-102.6" font-family="Times,serif" font-size="14.00" fill="#000000">:AaronGuzikowski</text>
+</a>
+</g>
+</g>
+<!-- N3 -->
+<g id="node12" class="node">
+<title>N3</title>
+<g id="a_node12"><a xlink:href="https://dbpedia.org/ontology/writer" xlink:title="dbo:writer">
+<ellipse fill="none" stroke="#000000" cx="624" cy="-18" rx="51.0223" ry="18"/>
+<text text-anchor="middle" x="624" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">dbo:writer</text>
+</a>
+</g>
+</g>
+<!-- N16&#45;&gt;N3 -->
+<g id="edge3" class="edge">
+<title>N16-&gt;N3</title>
+<g id="a_edge3"><a xlink:href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type" xlink:title="a">
+<path fill="none" stroke="#000000" d="M580.1301,-88.83C588.0092,-76.1088 598.7072,-58.8364 607.5662,-44.5331"/>
+<polygon fill="#000000" stroke="#000000" points="610.7841,-45.9846 613.0742,-35.6402 604.8331,-42.2987 610.7841,-45.9846"/>
+</a>
+</g>
+<g id="a_edge3-label"><a xlink:href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type" xlink:title="a">
+<text text-anchor="middle" x="605.1073" y="-58.2" font-family="Times,serif" font-size="14.00" fill="#000000">a</text>
+</a>
+</g>
+</g>
+<!-- N23 -->
+<g id="node25" class="node">
+<title>N23</title>
+<g id="a_node25"><a xlink:href="http://127.0.0.1:3333/Prisoners_6246" xlink:title="Aaron Guzikowski">
+<polygon fill="#ffff00" stroke="#ffff00" points="555.1355,-36 432.8645,-36 432.8645,0 555.1355,0 555.1355,-36"/>
+<text text-anchor="middle" x="494" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">Aaron Guzikowski</text>
+</a>
+</g>
+</g>
+<!-- N16&#45;&gt;N23 -->
+<g id="edge4" class="edge">
+<title>N16-&gt;N23</title>
+<g id="a_edge4"><a xlink:href="http://www.w3.org/2000/01/rdf-schema#label" xlink:title="rdfs:label">
+<path fill="none" stroke="#000000" d="M551.7827,-89.1559C546.3409,-83.4066 540.3809,-76.9257 535.1332,-70.8 527.9892,-62.4607 520.5145,-53.0834 513.9267,-44.5707"/>
+<polygon fill="#000000" stroke="#000000" points="516.5397,-42.2263 507.6796,-36.4168 510.983,-46.4835 516.5397,-42.2263"/>
+</a>
+</g>
+<g id="a_edge4-label"><a xlink:href="http://www.w3.org/2000/01/rdf-schema#label" xlink:title="rdfs:label">
+<text text-anchor="middle" x="562.4334" y="-58.2" font-family="Times,serif" font-size="14.00" fill="#000000">rdfs:label</text>
+</a>
+</g>
+</g>
+<!-- N14 -->
+<g id="node8" class="node">
+<title>N14</title>
+<g id="a_node8"><a xlink:href="http://127.0.0.1:3333/AaronGuzikowski" xlink:title="2013^^xsd:int">
+<polygon fill="#ffff00" stroke="#ffff00" points="941.7459,-124.8 846.2541,-124.8 846.2541,-88.8 941.7459,-88.8 941.7459,-124.8"/>
+<text text-anchor="middle" x="894" y="-102.6" font-family="Times,serif" font-size="14.00" fill="#000000">2013^^xsd:int</text>
+</a>
+</g>
+</g>
+<!-- N25 -->
+<g id="node9" class="node">
+<title>N25</title>
+<g id="a_node9"><a xlink:href="https://dbpedia.org/ontology/Country" xlink:title="dbo:Country">
+<ellipse fill="none" stroke="#000000" cx="1021" cy="-18" rx="59.7166" ry="18"/>
+<text text-anchor="middle" x="1021" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">dbo:Country</text>
+</a>
+</g>
+</g>
+<!-- N13 -->
+<g id="node11" class="node">
+<title>N13</title>
+<g id="a_node11"><a xlink:href="http://127.0.0.1:3333/UnitedStates" xlink:title=":UnitedStates">
+<ellipse fill="none" stroke="#000000" cx="1023" cy="-106.8" rx="63.1344" ry="18"/>
+<text text-anchor="middle" x="1023" y="-102.6" font-family="Times,serif" font-size="14.00" fill="#000000">:UnitedStates</text>
+</a>
+</g>
+</g>
+<!-- N13&#45;&gt;N24 -->
+<g id="edge2" class="edge">
+<title>N13-&gt;N24</title>
+<g id="a_edge2"><a xlink:href="http://www.w3.org/2000/01/rdf-schema#label" xlink:title="rdfs:label">
+<path fill="none" stroke="#000000" d="M1046.044,-89.8884C1064.4851,-76.3547 1090.5809,-57.2034 1111.2013,-42.0704"/>
+<polygon fill="#000000" stroke="#000000" points="1113.3871,-44.8078 1119.3783,-36.0695 1109.2455,-39.1644 1113.3871,-44.8078"/>
+</a>
+</g>
+<g id="a_edge2-label"><a xlink:href="http://www.w3.org/2000/01/rdf-schema#label" xlink:title="rdfs:label">
+<text text-anchor="middle" x="1121.4334" y="-58.2" font-family="Times,serif" font-size="14.00" fill="#000000">rdfs:label</text>
+</a>
+</g>
+</g>
+<!-- N13&#45;&gt;N25 -->
+<g id="edge1" class="edge">
+<title>N13-&gt;N25</title>
+<g id="a_edge1"><a xlink:href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type" xlink:title="a">
+<path fill="none" stroke="#000000" d="M1022.5856,-88.4006C1022.3129,-76.2949 1021.9506,-60.2076 1021.6412,-46.4674"/>
+<polygon fill="#000000" stroke="#000000" points="1025.1314,-45.9906 1021.407,-36.072 1018.1332,-46.1483 1025.1314,-45.9906"/>
+</a>
+</g>
+<g id="a_edge1-label"><a xlink:href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type" xlink:title="a">
+<text text-anchor="middle" x="1026.1073" y="-58.2" font-family="Times,serif" font-size="14.00" fill="#000000">a</text>
+</a>
+</g>
+</g>
+<!-- N22 -->
+<g id="node13" class="node">
+<title>N22</title>
+<g id="a_node13"><a xlink:href="https://dbpedia.org/ontology/Actor" xlink:title="dbo:Actor">
+<ellipse fill="none" stroke="#000000" cx="1412" cy="-18" rx="50.3819" ry="18"/>
+<text text-anchor="middle" x="1412" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">dbo:Actor</text>
+</a>
+</g>
+</g>
+<!-- N17 -->
+<g id="node14" class="node">
+<title>N17</title>
+<g id="a_node14"><a xlink:href="https://dbpedia.org/ontology/Actor" xlink:title="Prisoners">
+<polygon fill="#ffff00" stroke="#ffff00" points="1172.0983,-124.8 1103.9017,-124.8 1103.9017,-88.8 1172.0983,-88.8 1172.0983,-124.8"/>
+<text text-anchor="middle" x="1138" y="-102.6" font-family="Times,serif" font-size="14.00" fill="#000000">Prisoners</text>
+</a>
+</g>
+</g>
+<!-- N8 -->
+<g id="node15" class="node">
+<title>N8</title>
+<g id="a_node15"><a xlink:href="https://dbpedia.org/ontology/Actor" xlink:title="R">
+<polygon fill="#ffff00" stroke="#ffff00" points="1244,-124.8 1190,-124.8 1190,-88.8 1244,-88.8 1244,-124.8"/>
+<text text-anchor="middle" x="1217" y="-102.6" font-family="Times,serif" font-size="14.00" fill="#000000">R</text>
+</a>
+</g>
+</g>
+<!-- N15 -->
+<g id="node16" class="node">
+<title>N15</title>
+<g id="a_node16"><a xlink:href="http://127.0.0.1:3333/HughJackman" xlink:title=":HughJackman">
+<ellipse fill="none" stroke="#000000" cx="1331" cy="-106.8" rx="68.9235" ry="18"/>
+<text text-anchor="middle" x="1331" y="-102.6" font-family="Times,serif" font-size="14.00" fill="#000000">:HughJackman</text>
+</a>
+</g>
+</g>
+<!-- N15&#45;&gt;N22 -->
+<g id="edge5" class="edge">
+<title>N15-&gt;N22</title>
+<g id="a_edge5"><a xlink:href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type" xlink:title="a">
+<path fill="none" stroke="#000000" d="M1353.2173,-89.372C1359.8661,-83.7387 1366.9828,-77.2697 1373,-70.8 1380.5672,-62.6638 1388.0274,-53.0663 1394.3645,-44.3007"/>
+<polygon fill="#000000" stroke="#000000" points="1397.3875,-46.087 1400.2895,-35.8974 1391.6665,-42.0533 1397.3875,-46.087"/>
+</a>
+</g>
+<g id="a_edge5-label"><a xlink:href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type" xlink:title="a">
+<text text-anchor="middle" x="1390.1073" y="-58.2" font-family="Times,serif" font-size="14.00" fill="#000000">a</text>
+</a>
+</g>
+</g>
+<!-- N21 -->
+<g id="node23" class="node">
+<title>N21</title>
+<g id="a_node23"><a xlink:href="http://127.0.0.1:3333/Prisoners_6246" xlink:title="Hugh Jackman">
+<polygon fill="#ffff00" stroke="#ffff00" points="1343.5865,-36 1244.4135,-36 1244.4135,0 1343.5865,0 1343.5865,-36"/>
+<text text-anchor="middle" x="1294" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">Hugh Jackman</text>
+</a>
+</g>
+</g>
+<!-- N15&#45;&gt;N21 -->
+<g id="edge6" class="edge">
+<title>N15-&gt;N21</title>
+<g id="a_edge6"><a xlink:href="http://www.w3.org/2000/01/rdf-schema#label" xlink:title="rdfs:label">
+<path fill="none" stroke="#000000" d="M1323.5125,-88.83C1318.3311,-76.3946 1311.3377,-59.6104 1305.4591,-45.5018"/>
+<polygon fill="#000000" stroke="#000000" points="1308.6803,-44.1327 1301.6034,-36.2481 1302.2188,-46.825 1308.6803,-44.1327"/>
+</a>
+</g>
+<g id="a_edge6-label"><a xlink:href="http://www.w3.org/2000/01/rdf-schema#label" xlink:title="rdfs:label">
+<text text-anchor="middle" x="1342.4334" y="-58.2" font-family="Times,serif" font-size="14.00" fill="#000000">rdfs:label</text>
+</a>
+</g>
+</g>
+<!-- N0 -->
+<g id="node17" class="node">
+<title>N0</title>
+<g id="a_node17"><a xlink:href="http://127.0.0.1:3333/DenisVilleneuve" xlink:title=":DenisVilleneuve">
+<ellipse fill="none" stroke="#000000" cx="750" cy="-106.8" rx="78.7279" ry="18"/>
+<text text-anchor="middle" x="750" y="-102.6" font-family="Times,serif" font-size="14.00" fill="#000000">:DenisVilleneuve</text>
+</a>
+</g>
+</g>
+<!-- N0&#45;&gt;N2 -->
+<g id="edge25" class="edge">
+<title>N0-&gt;N2</title>
+<g id="a_edge25"><a xlink:href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type" xlink:title="a">
+<path fill="none" stroke="#000000" d="M777.4098,-89.8285C786.8447,-83.8969 797.4388,-77.1362 807,-70.8 821.6112,-61.1172 837.5722,-50.0976 851.0786,-40.6394"/>
+<polygon fill="#000000" stroke="#000000" points="853.3911,-43.2921 859.561,-34.6791 849.3667,-37.5647 853.3911,-43.2921"/>
+</a>
+</g>
+<g id="a_edge25-label"><a xlink:href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type" xlink:title="a">
+<text text-anchor="middle" x="834.1073" y="-58.2" font-family="Times,serif" font-size="14.00" fill="#000000">a</text>
+</a>
+</g>
+</g>
+<!-- N0&#45;&gt;N3 -->
+<g id="edge24" class="edge">
+<title>N0-&gt;N3</title>
+<g id="a_edge24"><a xlink:href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type" xlink:title="a">
+<path fill="none" stroke="#000000" d="M725.7059,-89.6785C705.6301,-75.5298 676.9926,-55.3471 655.218,-40.0012"/>
+<polygon fill="#000000" stroke="#000000" points="657.1358,-37.071 646.9455,-34.1711 653.1033,-42.7928 657.1358,-37.071"/>
+</a>
+</g>
+<g id="a_edge24-label"><a xlink:href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type" xlink:title="a">
+<text text-anchor="middle" x="702.1073" y="-58.2" font-family="Times,serif" font-size="14.00" fill="#000000">a</text>
+</a>
+</g>
+</g>
+<!-- N1 -->
+<g id="node18" class="node">
+<title>N1</title>
+<g id="a_node18"><a xlink:href="http://127.0.0.1:3333/DenisVilleneuve" xlink:title="Denis Villeneuve">
+<polygon fill="#ffff00" stroke="#ffff00" points="806.5794,-36 693.4206,-36 693.4206,0 806.5794,0 806.5794,-36"/>
+<text text-anchor="middle" x="750" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">Denis Villeneuve</text>
+</a>
+</g>
+</g>
+<!-- N0&#45;&gt;N1 -->
+<g id="edge26" class="edge">
+<title>N0-&gt;N1</title>
+<g id="a_edge26"><a xlink:href="http://www.w3.org/2000/01/rdf-schema#label" xlink:title="rdfs:label">
+<path fill="none" stroke="#000000" d="M750,-88.4006C750,-76.2949 750,-60.2076 750,-46.4674"/>
+<polygon fill="#000000" stroke="#000000" points="753.5001,-46.072 750,-36.072 746.5001,-46.0721 753.5001,-46.072"/>
+</a>
+</g>
+<g id="a_edge26-label"><a xlink:href="http://www.w3.org/2000/01/rdf-schema#label" xlink:title="rdfs:label">
+<text text-anchor="middle" x="776.4334" y="-58.2" font-family="Times,serif" font-size="14.00" fill="#000000">rdfs:label</text>
+</a>
+</g>
+</g>
+<!-- N11 -->
+<g id="node19" class="node">
+<title>N11</title>
+<g id="a_node19"><a xlink:href="http://127.0.0.1:3333/DenisVilleneuve" xlink:title="625000.0">
+<polygon fill="#ffff00" stroke="#ffff00" points="1486.0018,-124.8 1417.9982,-124.8 1417.9982,-88.8 1486.0018,-88.8 1486.0018,-124.8"/>
+<text text-anchor="middle" x="1452" y="-102.6" font-family="Times,serif" font-size="14.00" fill="#000000">625000.0</text>
+</a>
+</g>
+</g>
+<!-- N4 -->
+<g id="node21" class="node">
+<title>N4</title>
+<g id="a_node21"><a xlink:href="http://127.0.0.1:3333/Prisoners_6246" xlink:title=":Prisoners_6246">
+<ellipse fill="none" stroke="#000000" cx="1023" cy="-195.6" rx="73.5984" ry="18"/>
+<text text-anchor="middle" x="1023" y="-191.4" font-family="Times,serif" font-size="14.00" fill="#000000">:Prisoners_6246</text>
+</a>
+</g>
+</g>
+<!-- N4&#45;&gt;N18 -->
+<g id="edge9" class="edge">
+<title>N4-&gt;N18</title>
+<g id="a_edge9"><a xlink:href="http://127.0.0.1:3333/score" xlink:title=":score">
+<path fill="none" stroke="#000000" d="M949.1553,-194.1952C776.0262,-190.6024 347.8727,-179.9006 205.575,-159.6 144.0287,-150.8196 125.9149,-147.5662 63.7399,-124.7247"/>
+<polygon fill="#000000" stroke="#000000" points="64.8296,-121.396 54.2364,-121.2095 62.4011,-127.9613 64.8296,-121.396"/>
+</a>
+</g>
+<g id="a_edge9-label"><a xlink:href="http://127.0.0.1:3333/score" xlink:title=":score">
+<text text-anchor="middle" x="222.7125" y="-147" font-family="Times,serif" font-size="14.00" fill="#000000">:score</text>
+</a>
+</g>
+</g>
+<!-- N4&#45;&gt;N12 -->
+<g id="edge16" class="edge">
+<title>N4-&gt;N12</title>
+<g id="a_edge16"><a xlink:href="http://127.0.0.1:3333/budget" xlink:title=":budget">
+<path fill="none" stroke="#000000" d="M949.1885,-194.1266C828.3995,-191.1293 581.1125,-182.537 373.0042,-159.6 282.088,-149.5795 256.2494,-148.7035 163.7829,-124.78"/>
+<polygon fill="#000000" stroke="#000000" points="164.5746,-121.3695 154.0149,-122.2323 162.8079,-128.1429 164.5746,-121.3695"/>
+</a>
+</g>
+<g id="a_edge16-label"><a xlink:href="http://127.0.0.1:3333/budget" xlink:title=":budget">
+<text text-anchor="middle" x="394.9979" y="-147" font-family="Times,serif" font-size="14.00" fill="#000000">:budget</text>
+</a>
+</g>
+</g>
+<!-- N4&#45;&gt;N5 -->
+<g id="edge23" class="edge">
+<title>N4-&gt;N5</title>
+<g id="a_edge23"><a xlink:href="http://127.0.0.1:3333/company" xlink:title=":company">
+<path fill="none" stroke="#000000" d="M949.2682,-193.8728C848.4487,-190.7393 662.1252,-182.191 504.7896,-159.6 444.6745,-150.9684 377.2177,-135.6822 329.0301,-123.7712"/>
+<polygon fill="#000000" stroke="#000000" points="329.599,-120.306 319.0495,-121.2844 327.9066,-127.0983 329.599,-120.306"/>
+</a>
+</g>
+<g id="a_edge23-label"><a xlink:href="http://127.0.0.1:3333/company" xlink:title=":company">
+<text text-anchor="middle" x="532.6052" y="-147" font-family="Times,serif" font-size="14.00" fill="#000000">:company</text>
+</a>
+</g>
+</g>
+<!-- N4&#45;&gt;N9 -->
+<g id="edge19" class="edge">
+<title>N4-&gt;N9</title>
+<g id="a_edge19"><a xlink:href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type" xlink:title="a">
+<path fill="none" stroke="#000000" d="M951.2466,-190.9508C845.7702,-183.0798 643.164,-164.0039 475,-124.8 471.4133,-123.9638 467.7261,-122.9981 464.0408,-121.957"/>
+<polygon fill="#000000" stroke="#000000" points="464.9434,-118.5738 454.3598,-119.0625 462.9381,-125.2805 464.9434,-118.5738"/>
+</a>
+</g>
+<g id="a_edge19-label"><a xlink:href="http://www.w3.org/1999/02/22-rdf-syntax-ns#type" xlink:title="a">
+<text text-anchor="middle" x="658.1073" y="-147" font-family="Times,serif" font-size="14.00" fill="#000000">a</text>
+</a>
+</g>
+</g>
+<!-- N4&#45;&gt;N16 -->
+<g id="edge12" class="edge">
+<title>N4-&gt;N16</title>
+<g id="a_edge12"><a xlink:href="http://127.0.0.1:3333/writer" xlink:title=":writer">
+<path fill="none" stroke="#000000" d="M959.8943,-186.0131C916.6638,-179.2215 858.0741,-169.5764 806.6858,-159.6 748.5751,-148.3185 682.9158,-133.5798 635.3555,-122.5421"/>
+<polygon fill="#000000" stroke="#000000" points="636.0238,-119.1041 625.4906,-120.2455 634.4366,-125.9218 636.0238,-119.1041"/>
+</a>
+</g>
+<g id="a_edge12-label"><a xlink:href="http://127.0.0.1:3333/writer" xlink:title=":writer">
+<text text-anchor="middle" x="825.6571" y="-147" font-family="Times,serif" font-size="14.00" fill="#000000">:writer</text>
+</a>
+</g>
+</g>
+<!-- N4&#45;&gt;N14 -->
+<g id="edge14" class="edge">
+<title>N4-&gt;N14</title>
+<g id="a_edge14"><a xlink:href="http://127.0.0.1:3333/year" xlink:title=":year">
+<path fill="none" stroke="#000000" d="M998.1275,-178.4785C978.4785,-164.9527 950.8189,-145.9125 928.9451,-130.8553"/>
+<polygon fill="#000000" stroke="#000000" points="930.7941,-127.879 920.5725,-125.0917 926.825,-133.6449 930.7941,-127.879"/>
+</a>
+</g>
+<g id="a_edge14-label"><a xlink:href="http://127.0.0.1:3333/year" xlink:title=":year">
+<text text-anchor="middle" x="984.9902" y="-147" font-family="Times,serif" font-size="14.00" fill="#000000">:year</text>
+</a>
+</g>
+</g>
+<!-- N4&#45;&gt;N13 -->
+<g id="edge15" class="edge">
+<title>N4-&gt;N13</title>
+<g id="a_edge15"><a xlink:href="http://127.0.0.1:3333/country" xlink:title=":country">
+<path fill="none" stroke="#000000" d="M1023,-177.2006C1023,-165.0949 1023,-149.0076 1023,-135.2674"/>
+<polygon fill="#000000" stroke="#000000" points="1026.5001,-134.872 1023,-124.872 1019.5001,-134.8721 1026.5001,-134.872"/>
+</a>
+</g>
+<g id="a_edge15-label"><a xlink:href="http://127.0.0.1:3333/country" xlink:title=":country">
+<text text-anchor="middle" x="1046.3282" y="-147" font-family="Times,serif" font-size="14.00" fill="#000000">:country</text>
+</a>
+</g>
+</g>
+<!-- N4&#45;&gt;N17 -->
+<g id="edge10" class="edge">
+<title>N4-&gt;N17</title>
+<g id="a_edge10"><a xlink:href="http://127.0.0.1:3333/name" xlink:title=":name">
+<path fill="none" stroke="#000000" d="M1047.9138,-178.5731C1056.2997,-172.6947 1065.6452,-165.9808 1074,-159.6 1085.6765,-150.6823 1098.2085,-140.4887 1109.0605,-131.4518"/>
+<polygon fill="#000000" stroke="#000000" points="1111.5733,-133.9125 1116.9897,-124.8068 1107.0771,-128.5474 1111.5733,-133.9125"/>
+</a>
+</g>
+<g id="a_edge10-label"><a xlink:href="http://127.0.0.1:3333/name" xlink:title=":name">
+<text text-anchor="middle" x="1111.1052" y="-147" font-family="Times,serif" font-size="14.00" fill="#000000">:name</text>
+</a>
+</g>
+</g>
+<!-- N4&#45;&gt;N8 -->
+<g id="edge20" class="edge">
+<title>N4-&gt;N8</title>
+<g id="a_edge20"><a xlink:href="http://127.0.0.1:3333/rating" xlink:title=":rating">
+<path fill="none" stroke="#000000" d="M1072.2468,-182.0525C1091.3018,-176.1131 1113.0447,-168.4641 1132,-159.6 1149.4959,-151.4183 1167.8271,-140.3844 1182.9681,-130.5189"/>
+<polygon fill="#000000" stroke="#000000" points="1185.0815,-133.3172 1191.4838,-124.8756 1181.2146,-127.4822 1185.0815,-133.3172"/>
+</a>
+</g>
+<g id="a_edge20-label"><a xlink:href="http://127.0.0.1:3333/rating" xlink:title=":rating">
+<text text-anchor="middle" x="1180.2735" y="-147" font-family="Times,serif" font-size="14.00" fill="#000000">:rating</text>
+</a>
+</g>
+</g>
+<!-- N4&#45;&gt;N15 -->
+<g id="edge13" class="edge">
+<title>N4-&gt;N15</title>
+<g id="a_edge13"><a xlink:href="http://127.0.0.1:3333/star" xlink:title=":star">
+<path fill="none" stroke="#000000" d="M1085.7973,-186.1175C1120.7174,-180.0805 1164.7243,-171.2021 1203,-159.6 1232.1435,-150.766 1263.7884,-137.7453 1288.3223,-126.8448"/>
+<polygon fill="#000000" stroke="#000000" points="1290.009,-129.924 1297.694,-122.6307 1287.1382,-123.5397 1290.009,-129.924"/>
+</a>
+</g>
+<g id="a_edge13-label"><a xlink:href="http://127.0.0.1:3333/star" xlink:title=":star">
+<text text-anchor="middle" x="1262.0505" y="-147" font-family="Times,serif" font-size="14.00" fill="#000000">:star</text>
+</a>
+</g>
+</g>
+<!-- N4&#45;&gt;N0 -->
+<g id="edge11" class="edge">
+<title>N4-&gt;N0</title>
+<g id="a_edge11"><a xlink:href="http://127.0.0.1:3333/director" xlink:title=":director">
+<path fill="none" stroke="#000000" d="M972.8226,-182.3283C949.2554,-175.8642 920.8498,-167.7411 895.5778,-159.6 863.416,-149.2394 827.7454,-136.3256 799.7632,-125.8627"/>
+<polygon fill="#000000" stroke="#000000" points="800.7966,-122.5121 790.2045,-122.2722 798.3352,-129.0651 800.7966,-122.5121"/>
+</a>
+</g>
+<g id="a_edge11-label"><a xlink:href="http://127.0.0.1:3333/director" xlink:title=":director">
+<text text-anchor="middle" x="919.7111" y="-147" font-family="Times,serif" font-size="14.00" fill="#000000">:director</text>
+</a>
+</g>
+</g>
+<!-- N4&#45;&gt;N11 -->
+<g id="edge17" class="edge">
+<title>N4-&gt;N11</title>
+<g id="a_edge17"><a xlink:href="http://127.0.0.1:3333/votes" xlink:title=":votes">
+<path fill="none" stroke="#000000" d="M1092.1719,-189.0918C1168.4844,-180.5454 1294.4861,-162.3786 1408.324,-124.7888"/>
+<polygon fill="#000000" stroke="#000000" points="1409.5306,-128.0758 1417.8946,-121.5723 1407.3006,-121.4405 1409.5306,-128.0758"/>
+</a>
+</g>
+<g id="a_edge17-label"><a xlink:href="http://127.0.0.1:3333/votes" xlink:title=":votes">
+<text text-anchor="middle" x="1364.7202" y="-147" font-family="Times,serif" font-size="14.00" fill="#000000">:votes</text>
+</a>
+</g>
+</g>
+<!-- N10 -->
+<g id="node22" class="node">
+<title>N10</title>
+<g id="a_node22"><a xlink:href="http://127.0.0.1:3333/Prisoners_6246" xlink:title="153.0">
+<polygon fill="#ffff00" stroke="#ffff00" points="1558,-124.8 1504,-124.8 1504,-88.8 1558,-88.8 1558,-124.8"/>
+<text text-anchor="middle" x="1531" y="-102.6" font-family="Times,serif" font-size="14.00" fill="#000000">153.0</text>
+</a>
+</g>
+</g>
+<!-- N4&#45;&gt;N10 -->
+<g id="edge18" class="edge">
+<title>N4-&gt;N10</title>
+<g id="a_edge18"><a xlink:href="http://127.0.0.1:3333/runtime" xlink:title=":runtime">
+<path fill="none" stroke="#000000" d="M1096.1265,-192.776C1169.7222,-188.8964 1286.1732,-179.9174 1385,-159.6 1432.2837,-149.8791 1445.911,-144.6875 1494.2429,-124.884"/>
+<polygon fill="#000000" stroke="#000000" points="1495.7625,-128.0437 1503.6873,-121.0118 1493.1071,-121.567 1495.7625,-128.0437"/>
+</a>
+</g>
+<g id="a_edge18-label"><a xlink:href="http://127.0.0.1:3333/runtime" xlink:title=":runtime">
+<text text-anchor="middle" x="1472.7188" y="-147" font-family="Times,serif" font-size="14.00" fill="#000000">:runtime</text>
+</a>
+</g>
+</g>
+<!-- N6 -->
+<g id="node24" class="node">
+<title>N6</title>
+<g id="a_node24"><a xlink:href="http://127.0.0.1:3333/Prisoners_6246" xlink:title="Crime">
+<polygon fill="#ffff00" stroke="#ffff00" points="1630,-124.8 1576,-124.8 1576,-88.8 1630,-88.8 1630,-124.8"/>
+<text text-anchor="middle" x="1603" y="-102.6" font-family="Times,serif" font-size="14.00" fill="#000000">Crime</text>
+</a>
+</g>
+</g>
+<!-- N4&#45;&gt;N6 -->
+<g id="edge22" class="edge">
+<title>N4-&gt;N6</title>
+<g id="a_edge22"><a xlink:href="http://127.0.0.1:3333/genre" xlink:title=":genre">
+<path fill="none" stroke="#000000" d="M1096.5854,-193.604C1211.0475,-189.8996 1426.2567,-180.3677 1500,-159.6 1523.5438,-152.9696 1547.9847,-140.7074 1567.1468,-129.668"/>
+<polygon fill="#000000" stroke="#000000" points="1568.9972,-132.64 1575.8293,-124.5422 1565.4386,-126.6121 1568.9972,-132.64"/>
+</a>
+</g>
+<g id="a_edge22-label"><a xlink:href="http://127.0.0.1:3333/genre" xlink:title=":genre">
+<text text-anchor="middle" x="1559.4902" y="-147" font-family="Times,serif" font-size="14.00" fill="#000000">:genre</text>
+</a>
+</g>
+</g>
+<!-- N7 -->
+<g id="node26" class="node">
+<title>N7</title>
+<g id="a_node26"><a xlink:href="http://127.0.0.1:3333/Prisoners_6246" xlink:title="122126687.0">
+<polygon fill="#ffff00" stroke="#ffff00" points="1737.5014,-124.8 1648.4986,-124.8 1648.4986,-88.8 1737.5014,-88.8 1737.5014,-124.8"/>
+<text text-anchor="middle" x="1693" y="-102.6" font-family="Times,serif" font-size="14.00" fill="#000000">122126687.0</text>
+</a>
+</g>
+</g>
+<!-- N4&#45;&gt;N7 -->
+<g id="edge21" class="edge">
+<title>N4-&gt;N7</title>
+<g id="a_edge21"><a xlink:href="http://127.0.0.1:3333/gross" xlink:title=":gross">
+<path fill="none" stroke="#000000" d="M1096.8226,-194.2607C1226.89,-191.3319 1491.5837,-182.668 1581,-159.6 1606.3849,-153.0511 1633.0011,-140.7594 1653.9147,-129.6827"/>
+<polygon fill="#000000" stroke="#000000" points="1655.6769,-132.7086 1662.8021,-124.8675 1652.3423,-126.5539 1655.6769,-132.7086"/>
+</a>
+</g>
+<g id="a_edge21-label"><a xlink:href="http://127.0.0.1:3333/gross" xlink:title=":gross">
+<text text-anchor="middle" x="1642.7202" y="-147" font-family="Times,serif" font-size="14.00" fill="#000000">:gross</text>
+</a>
+</g>
+</g>
+</g>
+</svg>
